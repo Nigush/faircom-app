@@ -1,0 +1,103 @@
+body { 
+    background-image: url("https://www.marbleplus.com.au/wp-content/uploads/2019/03/Bianco-Carrara-marble-1-300x300.jpg")
+ }
+h1 a {
+     background-color: #235B27;
+     background-size: 280px 200px ;
+     color: #B79931;
+     font-family: 'Lobster';
+     font-size: 45pt;
+     margin-top: 0;
+     padding: 20px 300px 10px 300px;
+}
+
+#menu {
+    list-style: none; 
+    margin: 30px 350px;
+  }
+#menu a {
+    text-decoration: none;
+    font-family: 'Lora', serif;
+    font-size: 15pt;
+    transition: .5s linear;
+  }
+#menu ul {
+    background: #2F7935;
+    overflow: hidden;
+    padding-right: 50px;
+  }
+#menu li {
+    float: left;
+  }
+#menu a {
+    display: block;
+    padding: 2em; 
+    background: #48994E;
+    color: #DAB638;
+  }
+#menu a:hover {background: #ffffff}
+
+#company h2 {
+    padding-top: 200px;
+    padding-right: 550px;
+    padding-left: 250px;
+    font-size: 18pt;
+    color: #0F1010;
+    font-family: 'Lobster';
+    }
+#company h5 {
+    padding-top: 40px;
+    padding-left: 250px;
+    padding-right: 90px;
+    font-size: 15pt;
+    width: 1300px;
+    color: #1E4521;
+    font-family: 'Crimson Text', serif;
+}
+#services h2 {
+    padding-top: 100px;
+    padding-right: 550px;
+    padding-left: 250px;
+    font-size: 18pt;
+    color: #1E4521;
+    font-family: 'Lobster';
+    }
+#services h4 {
+        padding-top: 15px;
+        padding-left: 250px;
+        padding-right: 90px;
+        font-size: 14pt;
+        width: 1300px;
+        color: #1E4521;
+        font-family: 'Crimson Text', serif;
+    }
+#services h5 {
+        padding-top: 15px;
+        padding-left: 250px;
+        padding-right: 90px;
+        font-size: 15pt;
+        width: 1300px;
+        color: #1E4521;
+        font-family: 'Crimson Text', serif;
+    }
+#services ul {
+        padding-top: 10px;
+    }
+#contacts h2 {
+        padding-top: 100px;
+        padding-right: 550px;
+        padding-left: 250px;
+        font-size: 18pt;
+        color: #1E4521;
+        font-family: 'Lobster';
+        }
+#contacts h5 {
+            padding-top: 15px;
+            padding-left: 250px;
+            padding-right: 90px;
+            padding-bottom: 20px;
+            font-size: 15pt;
+            width: 1300px;
+            color: #1E4521;
+            font-family: 'Crimson Text', serif;
+    }
