@@ -2,9 +2,9 @@ body {
     background-image: url("https://www.marbleplus.com.au/wp-content/uploads/2019/03/Bianco-Carrara-marble-1-300x300.jpg")
  }
 h1 a {
-     background-color: #235B27;
+     background-color: ;
      background-size: 280px 200px ;
-     color: #B79931;
+     color: #595A5C;
      font-family: 'Lobster';
      font-size: 45pt;
      margin-top: 0;
@@ -22,7 +22,7 @@ h1 a {
     transition: .5s linear;
   }
 #menu ul {
-    background: #2F7935;
+    background: #C7B9C2;
     overflow: hidden;
     padding-right: 50px;
   }
@@ -32,8 +32,8 @@ h1 a {
 #menu a {
     display: block;
     padding: 2em; 
-    background: #48994E;
-    color: #DAB638;
+    background: #C7B9C2;
+    color: #595A5C;
   }
 #menu a:hover {background: #ffffff}
 
@@ -97,7 +97,7 @@ h1 a {
             padding-right: 90px;
             padding-bottom: 20px;
             font-size: 15pt;
-            width: 1300px;
+            width: 1,181818181818182px;
             color: #1E4521;
             font-family: 'Crimson Text', serif;
-    }
+}
