@@ -1,6 +1,7 @@
 body { 
-    background-image: url("https://www.marbleplus.com.au/wp-content/uploads/2019/03/Bianco-Carrara-marble-1-300x300.jpg")
- }
+    background-image: url("https://www.marbleplus.com.au/wp-content/uploads/2019/03/Bianco-Carrara-marble-1-300x300.jpg");
+    width: 1360px;
+}
 h1 a {
      background-color: ;
      background-size: 280px 200px ;
@@ -97,7 +98,7 @@ h1 a {
             padding-right: 90px;
             padding-bottom: 20px;
             font-size: 15pt;
-            width: 1,181818181818182px;
+            width: 1300px;
             color: #1E4521;
             font-family: 'Crimson Text', serif;
 }
