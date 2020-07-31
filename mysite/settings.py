@@ -124,6 +124,6 @@ STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, STATIC_URL.strip("/"))
 
 STATICFILES_DIRS = (
-    '/static/',
-    '/upload/',
+    normpath(join(BASE_DIR, 'static')),
+    normpath(join(BASE_DIR, 'upload')),
 )
