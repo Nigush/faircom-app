@@ -26,7 +26,7 @@ SECRET_KEY = 'wnh%d947xywq*1icr2)td0&qp_-n%@-d$*04o_p5_bi4*^q(%u'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'www.ffclog.org',
+    
 ]
 
 
@@ -121,9 +121,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, STATIC_URL.strip("/"))
+#STATIC_ROOT = os.path.join(BASE_DIR, STATIC_URL.strip("/"))
 
-STATICFILES_DIRS = (
-    normpath(join(BASE_DIR, 'static')),
-    normpath(join(BASE_DIR, 'upload')),
-)
+#STATICFILES_DIRS = (
+#    normpath(join(BASE_DIR, 'static')),
+#    normpath(join(BASE_DIR, 'upload')),
+#)
