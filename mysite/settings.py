@@ -25,7 +25,9 @@ SECRET_KEY = 'wnh%d947xywq*1icr2)td0&qp_-n%@-d$*04o_p5_bi4*^q(%u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'www.ffclog.org',
+]
 
 
 # Application definition
